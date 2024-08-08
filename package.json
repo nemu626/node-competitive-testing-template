@@ -1,5 +1,6 @@
 {
     "scripts": {
-        "test": "./test.sh"
+        "test": "./run_all.sh",
+        "test:case": "./run_case.sh"
     }
 }
